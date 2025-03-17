@@ -24,7 +24,7 @@ It includes:
 
 - Client Functions: Sends city and crop type as input to the server. Receives and displays: Weather data, parameter statuses, and overall crop health.
 
--Agriculture Service Platform API:
+- Agriculture Service Platform API:
 
 - Crop Advisory Service: Determines suitability of weather for a given crop type.
   
