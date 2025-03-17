@@ -8,6 +8,7 @@ It includes:
 - **Task 4**: Deployment using Ngrok
 - **Question 1 client/server**: A server fetches real-time weather data (temperature, humidity, pressure) from a third-party API and evaluates crop health based on predefined optimal conditions,whereas client sends requests to the server with a city and crop type to receive the health status of the crop in that city.
 - **Agriculture**: This task involves designing and implementing a Flask-based RESTful API to help farmers manage their agricultural needs efficiently. The API will provide multiple services, including crop advisory, bank loan approval, seed and fertilizer procurement, and transport logistics.
+- Both **Question 1 client/server** and **Agriculture** are in zip files. Separate zip files for code and output screenshots with a detailed word document explaining things and flowchart.
 
 ---
 
